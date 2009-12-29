@@ -1,0 +1,398 @@
+TPong
+v7
+r0
+t283812671.375299
+cCheck dependencies
+cProcessInfoPlistFile /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist Pong-Info.plist
+cCpResource build/Debug-iphonesimulator/Pong.app/Shader.fsh Shaders/Shader.fsh
+cCpResource build/Debug-iphonesimulator/Pong.app/Shader.vsh Shaders/Shader.vsh
+cCompileXIB /Users/sstelmach/Sites/Pong/Pong/MainWindow.xib
+cProcessPCH /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-hkoasaqlrohynjgnponcoozkqfey/Pong_Prefix.pch.gch Pong_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o /Users/sstelmach/Sites/Pong/Pong/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o /Users/sstelmach/Sites/Pong/Pong/Classes/PongAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/EAGLView.o /Users/sstelmach/Sites/Pong/Pong/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/ES1Renderer.o /Users/sstelmach/Sites/Pong/Pong/Classes/ES1Renderer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/ES2Renderer.o /Users/sstelmach/Sites/Pong/Pong/Classes/ES2Renderer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Pong normal i386
+cGenerateDSYMFile /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app.dSYM /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Pong
+cTouch /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B37E60900000000000000EE
+t1261954569
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004ABDCA29000000000000094F
+t1253952041
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004ABDCA290000000000000A61
+t1253952041
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004ABDCA290000000000009369
+t1253952041
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004ABDCA290000000000002A42
+t1253952041
+s10818
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/gl.h
+c000000004ABDCA2900000000000082AD
+t1253952041
+s33453
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES2/glext.h
+c000000004ABDCA290000000000001617
+t1253952041
+s5655
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004ABDCA31000000000001F8E0
+t1253952049
+s129248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004ABDCAC8000000000000007D
+t1253952200
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004ABDCB2000000000000E5890
+t1253952288
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/Availability.h
+c000000004ABDCA4700000000000019F9
+t1253952071
+s6649
+
+N/Users/sstelmach/Sites/Pong/Pong/Classes/EAGLView.h
+c000000004B3A6BAB00000000000004C9
+t1262119851
+s1225
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"ESRenderer.h"
+
+N/Users/sstelmach/Sites/Pong/Pong/Classes/EAGLView.m
+c000000004B3A6BAB0000000000000E9C
+t1262119851
+s3740
+i"EAGLView.h"
+i"ES1Renderer.h"
+i"ES2Renderer.h"
+
+N/Users/sstelmach/Sites/Pong/Pong/Classes/ES1Renderer.h
+c000000004B3A6BAB000000000000025B
+t1262119851
+s603
+i"ESRenderer.h"
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+
+N/Users/sstelmach/Sites/Pong/Pong/Classes/ES1Renderer.m
+c000000004B3A6BAB0000000000000F31
+t1262119851
+s3889
+i"ES1Renderer.h"
+
+N/Users/sstelmach/Sites/Pong/Pong/Classes/ES2Renderer.h
+c000000004B3A6BAB000000000000026F
+t1262119851
+s623
+i"ESRenderer.h"
+i<OpenGLES/ES2/gl.h>
+i<OpenGLES/ES2/glext.h>
+
+N/Users/sstelmach/Sites/Pong/Pong/Classes/ES2Renderer.m
+c000000004B3A6BAB0000000000001F9B
+t1262119851
+s8091
+i"ES2Renderer.h"
+
+N/Users/sstelmach/Sites/Pong/Pong/Classes/ESRenderer.h
+c000000004B3A6BAB0000000000000153
+t1262119851
+s339
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Users/sstelmach/Sites/Pong/Pong/Classes/PongAppDelegate.h
+c000000004B3A6BAB00000000000001A4
+t1262119851
+s420
+i<UIKit/UIKit.h>
+
+N/Users/sstelmach/Sites/Pong/Pong/Classes/PongAppDelegate.m
+c000000004B3A6BAB00000000000002E1
+t1262119851
+s737
+i"PongAppDelegate.h"
+i"EAGLView.h"
+
+N/Users/sstelmach/Sites/Pong/Pong/MainWindow.xib
+c000000004B3A6BAB0000000000002564
+t1262119851
+s9572
+
+N/Users/sstelmach/Sites/Pong/Pong/Pong_Prefix.pch
+c000000004B3A6BAB0000000000000132
+t1262119851
+s306
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sstelmach/Sites/Pong/Pong/Shaders/Shader.fsh
+c000000004B3A6BAB00000000000000D9
+t1262119851
+s217
+
+N/Users/sstelmach/Sites/Pong/Pong/Shaders/Shader.vsh
+c000000004B3A6BAB000000000000015A
+t1262119851
+s346
+
+N/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app
+t1262119871
+s272
+
+N/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app.dSYM
+t1262119871
+s102
+
+N/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist
+t1262119867
+s552
+
+N/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/MainWindow.nib
+t1262119869
+s1557
+
+N/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/PkgInfo
+t1262119867
+s8
+
+N/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Pong
+t1262119871
+s35116
+
+N/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Shader.fsh
+t1262119867
+s217
+
+N/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Shader.vsh
+t1262119867
+s346
+
+N/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/EAGLView.o
+t1262119870
+s19300
+
+N/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/ES1Renderer.o
+t1262119870
+s14892
+
+N/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/ES2Renderer.o
+t1262119870
+s21740
+
+N/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/Pong.LinkFileList
+c000000004B3A6BBB0000000000000243
+t1262119867
+s579
+
+N/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o
+t1262119870
+s20124
+
+N/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o
+t1262119870
+s5944
+
+N/Users/sstelmach/Sites/Pong/Pong/main.m
+c000000004B3A6BAB000000000000016B
+t1262119851
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-hkoasaqlrohynjgnponcoozkqfey/Pong_Prefix.pch.gch
+t1262119870
+s13022672
+
+NPong-Info.plist
+c000000004B3A6BAB000000000000038D
+t1262119851
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies283812667#283812667#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/EAGLView.o /Users/sstelmach/Sites/Pong/Pong/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s283812670.813850
+e283812670.918247
+r1
+xCompileC
+xbuild/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/EAGLView.o
+x/Users/sstelmach/Sites/Pong/Pong/Classes/EAGLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/sstelmach/Sites/Pong/Pong/Classes/EAGLView.m283812670#283812670#0(0"0(0#0#51"/Users/sstelmach/Sites/Pong/Pong/Classes/EAGLView.m4300885448#1757"    cd /Users/sstelmach/Sites/Pong/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator -I/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/include -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-hkoasaqlrohynjgnponcoozkqfey/Pong_Prefix.pch -c /Users/sstelmach/Sites/Pong/Pong/Classes/EAGLView.m -o /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/EAGLView.o0#
+
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/ES1Renderer.o /Users/sstelmach/Sites/Pong/Pong/Classes/ES1Renderer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s283812670.830698
+e283812670.912144
+r1
+xCompileC
+xbuild/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/ES1Renderer.o
+x/Users/sstelmach/Sites/Pong/Pong/Classes/ES1Renderer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/sstelmach/Sites/Pong/Pong/Classes/ES1Renderer.m283812670#283812670#0(0"0(0#0#54"/Users/sstelmach/Sites/Pong/Pong/Classes/ES1Renderer.m4300885448#1763"    cd /Users/sstelmach/Sites/Pong/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator -I/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/include -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-hkoasaqlrohynjgnponcoozkqfey/Pong_Prefix.pch -c /Users/sstelmach/Sites/Pong/Pong/Classes/ES1Renderer.m -o /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/ES1Renderer.o0#
+
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/ES2Renderer.o /Users/sstelmach/Sites/Pong/Pong/Classes/ES2Renderer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s283812670.912247
+e283812670.988186
+r1
+xCompileC
+xbuild/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/ES2Renderer.o
+x/Users/sstelmach/Sites/Pong/Pong/Classes/ES2Renderer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/sstelmach/Sites/Pong/Pong/Classes/ES2Renderer.m283812670#283812670#0(0"0(0#0#54"/Users/sstelmach/Sites/Pong/Pong/Classes/ES2Renderer.m4300885448#1763"    cd /Users/sstelmach/Sites/Pong/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator -I/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/include -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-hkoasaqlrohynjgnponcoozkqfey/Pong_Prefix.pch -c /Users/sstelmach/Sites/Pong/Pong/Classes/ES2Renderer.m -o /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/ES2Renderer.o0#
+
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o /Users/sstelmach/Sites/Pong/Pong/Classes/PongAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s283812670.734235
+e283812670.830613
+r1
+xCompileC
+xbuild/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o
+x/Users/sstelmach/Sites/Pong/Pong/Classes/PongAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/sstelmach/Sites/Pong/Pong/Classes/PongAppDelegate.m283812670#283812670#0(0"0(0#0#58"/Users/sstelmach/Sites/Pong/Pong/Classes/PongAppDelegate.m4300885448#1771"    cd /Users/sstelmach/Sites/Pong/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator -I/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/include -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-hkoasaqlrohynjgnponcoozkqfey/Pong_Prefix.pch -c /Users/sstelmach/Sites/Pong/Pong/Classes/PongAppDelegate.m -o /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/PongAppDelegate.o0#
+
+CCompileC build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o /Users/sstelmach/Sites/Pong/Pong/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s283812670.733138
+e283812670.813743
+r1
+xCompileC
+xbuild/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o
+x/Users/sstelmach/Sites/Pong/Pong/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/sstelmach/Sites/Pong/Pong/main.m283812670#283812670#0(0"0(0#0#39"/Users/sstelmach/Sites/Pong/Pong/main.m4300885448#1741"    cd /Users/sstelmach/Sites/Pong/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator -I/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/include -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -include /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-hkoasaqlrohynjgnponcoozkqfey/Pong_Prefix.pch -c /Users/sstelmach/Sites/Pong/Pong/main.m -o /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/sstelmach/Sites/Pong/Pong/MainWindow.xib
+s283812667.530016
+e283812669.579412
+r1
+xCompileXIB
+x/Users/sstelmach/Sites/Pong/Pong/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib283812667#283812669#0(0"0(0#0#47"/Users/sstelmach/Sites/Pong/Pong/MainWindow.xib4300885448#461"    cd /Users/sstelmach/Sites/Pong/Pong    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/MainWindow.nib /Users/sstelmach/Sites/Pong/Pong/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/Shader.fsh Shaders/Shader.fsh
+s283812667.432314
+e283812667.670505
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/Shader.fsh
+xShaders/Shader.fsh
+lSLF07#2@23"Copy Shaders/Shader.fsh283812667#283812667#0(0"0(0#0#51"/Users/sstelmach/Sites/Pong/Pong/Shaders/Shader.fsh4300885448#441"    cd /Users/sstelmach/Sites/Pong/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sstelmach/Sites/Pong/Pong/Shaders/Shader.fsh /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CCpResource build/Debug-iphonesimulator/Pong.app/Shader.vsh Shaders/Shader.vsh
+s283812667.504310
+e283812667.670361
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Pong.app/Shader.vsh
+xShaders/Shader.vsh
+lSLF07#2@23"Copy Shaders/Shader.vsh283812667#283812667#0(0"0(0#0#51"/Users/sstelmach/Sites/Pong/Pong/Shaders/Shader.vsh4300885448#441"    cd /Users/sstelmach/Sites/Pong/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/sstelmach/Sites/Pong/Pong/Shaders/Shader.vsh /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app0#
+
+CGenerateDSYMFile /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app.dSYM /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Pong
+s283812671.312605
+e283812671.372214
+r1
+xGenerateDSYMFile
+x/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app.dSYM
+x/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Pong
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/Pong.app.dSYM build/Debug-iphonesimulator/Pong.app/Pong283812671#283812671#0(0"0(0#0#74"/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Pong4300885448#356"    cd /Users/sstelmach/Sites/Pong/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Pong -o /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app.dSYM0#
+
+CLd /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Pong normal i386
+s283812670.988259
+e283812671.312427
+r1
+xLd
+x/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Pong
+xnormal
+xi386
+lSLF07#2@79"Link /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Pong283812670#283812671#0(0"0(0#0#0"4300885448#837"    cd /Users/sstelmach/Sites/Pong/Pong    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator -F/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator -filelist /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Objects-normal/i386/Pong.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -o /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Pong0#
+
+CProcessInfoPlistFile /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist Pong-Info.plist
+s283812667.363376
+e283812667.432214
+r1
+xProcessInfoPlistFile
+x/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist
+xPong-Info.plist
+lSLF07#2@23"Process Pong-Info.plist283812667#283812667#0(0"0(0#0#48"/Users/sstelmach/Sites/Pong/Pong/Pong-Info.plist28429445101453416#452"    cd /Users/sstelmach/Sites/Pong/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Pong-Info.plist -genpkginfo /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app/Info.plist0#
+
+CProcessPCH /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-hkoasaqlrohynjgnponcoozkqfey/Pong_Prefix.pch.gch Pong_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s283812669.579676
+e283812670.733029
+r1
+xProcessPCH
+x/var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-hkoasaqlrohynjgnponcoozkqfey/Pong_Prefix.pch.gch
+xPong_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Pong_Prefix.pch283812669#283812670#0(0"0(0#0#48"/Users/sstelmach/Sites/Pong/Pong/Pong_Prefix.pch4300885448#1642"    cd /Users/sstelmach/Sites/Pong/Pong    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-generated-files.hmap -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-own-target-headers.hmap -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-all-target-headers.hmap -iquote /Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/Pong-project-headers.hmap -F/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator -I/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/include -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources/i386 -I/Users/sstelmach/Sites/Pong/Pong/build/Pong.build/Debug-iphonesimulator/Pong.build/DerivedSources -c /Users/sstelmach/Sites/Pong/Pong/Pong_Prefix.pch -o /var/folders/jd/jdYaFMyWFTuRIuBUX8JMIk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pong_Prefix-hkoasaqlrohynjgnponcoozkqfey/Pong_Prefix.pch.gch0#
+
+CTouch /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app
+s283812671.372365
+e283812671.375248
+r1
+xTouch
+x/Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app
+lSLF07#2@75"Touch /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app283812671#283812671#0(0"0(0#0#0"4300885448#263"    cd /Users/sstelmach/Sites/Pong/Pong    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sstelmach/Sites/Pong/Pong/build/Debug-iphonesimulator/Pong.app0#
+
